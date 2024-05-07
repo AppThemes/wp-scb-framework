@@ -29,6 +29,18 @@ class scbPostMetabox {
 	private $post_data = array();
 
 	/**
+	 * Metabox context.
+	 * @var string
+	 */
+	private $context;
+
+	/**
+	 * Metabox priority.
+	 * @var string
+	 */
+	private $priority;
+
+	/**
 	 * Action hooks.
 	 * @var array
 	 */

@@ -35,6 +35,8 @@ abstract class scbAdminPage {
 	// l10n
 	protected $textdomain;
 
+	protected $nonce;
+
 
 //  ____________REGISTRATION COMPONENT____________
 
