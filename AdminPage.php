@@ -10,7 +10,7 @@ abstract class scbAdminPage {
 	 * $menu_title (string)  (default: $page_title)
 	 * $submenu_title (string)  (default: $menu_title)
 	 * $page_slug (string)  (default: sanitized $page_title)
-	 * $toplevel (string)  If not empty, will create a new top level menu (for expected values see http://codex.wordpress.org/Administration_Menus#Using_add_submenu_page)
+	 * $toplevel (string)  If not empty, will create a new top level menu (for expected values see https://codex.wordpress.org/Administration_Menus#Using_add_submenu_page)
 	 * - $icon_url (string)  URL to an icon for the top level menu
 	 * - $position (int)  Position of the toplevel menu (caution!)
 	 * $screen_icon (string)  The icon type to use in the screen header
